@@ -23,14 +23,5 @@
     <link rel="stylesheet" href="{{ asset('/css/magnific-popup.css') }}" type="text/css">
     <link rel="stylesheet" href="{{ asset('/css/slicknav.min.css') }}" type="text/css">
     <link rel="stylesheet" href="{{ asset('/css/style.css') }}" type="text/css">
-    {{-- <link rel="stylesheet" href="/../../css/bootstrap.min.css" type="text/css">
-    <link rel="stylesheet" href="/../../css/font-awesome.min.css" type="text/css">
-    <link rel="stylesheet" href="/../../css/elegant-icons.css" type="text/css">
-    <link rel="stylesheet" href="/../../css/flaticon.css" type="text/css">
-    <link rel="stylesheet" href="/../../css/owl.carousel.min.css" type="text/css">
-    <link rel="stylesheet" href="/../../css/nice-select.css" type="text/css">
-    <link rel="stylesheet" href="/../../css/jquery-ui.min.css" type="text/css">
-    <link rel="stylesheet" href="/../../css/magnific-popup.css" type="text/css">
-    <link rel="stylesheet" href="/../../css/slicknav.min.css" type="text/css">
-    <link rel="stylesheet" href="/../../css/style.css" type="text/css"> --}}
+   
 </head>

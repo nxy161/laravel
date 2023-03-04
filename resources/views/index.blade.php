@@ -1,4 +1,3 @@
-@include('public.header')
-
-@include('public.body')
-@include('public.footer')
+@include('public.layouts.header')
+@include('public.layouts.body')
+@include('public.layouts.footer')
